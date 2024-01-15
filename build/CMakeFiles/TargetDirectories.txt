@@ -1,0 +1,3 @@
+G:/CPP/dron/build/CMakeFiles/ArduinoUDPClient.dir
+G:/CPP/dron/build/CMakeFiles/edit_cache.dir
+G:/CPP/dron/build/CMakeFiles/rebuild_cache.dir
